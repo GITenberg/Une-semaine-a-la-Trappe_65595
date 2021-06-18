@@ -1,11 +1,16 @@
 _repo: Une-semaine-a-la-Trappe_65595
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65595-h/images/cover.jpg
 creator:
   author:
     agent_name: Monbrun, Alfred
     gutenberg_agent_id: '53420'
     url: http://www.gutenberg.org/2009/agents/53420
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65595#Une-semaine-a-la-Trappe
 gutenberg_issued: '2021-06-11'
 gutenberg_type: Text
 identifiers:
